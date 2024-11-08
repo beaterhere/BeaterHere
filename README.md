@@ -12,9 +12,7 @@
 
 <h1 align="center">A passionate developer from India.</h1>
 
-###
 
-<img src="https://raw.githubusercontent.com/beaterhere/beaterhere/output/snake.svg" alt="Snake animation" />
 
 ###
 
