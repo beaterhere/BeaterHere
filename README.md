@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="200" src="https://cdn.discordapp.com/attachments/1280696282972815403/1304579920327868488/polar-bear.jpg?ex=672fe83a&is=672e96ba&hm=83eb12d73e7255676ed8525989a9b09fc291d902d9e6a1b594c600eb469a5517&"  />
+  <img height="200" src="https://cdn.discordapp.com/attachments/1304505153260355634/1321199647087263833/polar-bear.jpg?ex=676c5e8e&is=676b0d0e&hm=6a8e6701d058de299d34433301c9015df1abb87faca6bfcb95e70a819d3432ec&"  />
 </div>
 
 ###
